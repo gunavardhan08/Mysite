@@ -1,0 +1,97 @@
+body{
+    color: #40514E;
+    margin: 0;
+    text-align: center;
+    font-family: cursive;
+}
+h1{
+    color:#66BFBF;
+    padding-top: 100px;
+}
+h2{
+    color: #66BFBF;
+}
+h3{
+    color: #66BFBF;
+}
+p{
+    line-height: 2;
+}
+hr{
+    border: dotted rgb(187, 181, 181) 5px;
+    border-bottom: none;
+    width: 4%;
+    margin: 100px auto;
+}
+.cs{
+    color: #66BFBF;
+    font-weight: 100;
+}
+.top-container{
+    background-color:rgb(217, 230, 235);
+    height: 550px;
+}
+.middle-container{
+    margin: 100px 0;
+}
+.bottom-container{
+    background-color: #66BFBF;
+    padding: 50px 0 20px;
+}
+.name{
+    color: rgb(43, 43, 109);
+}
+.top-cloud{
+    position: absolute;
+    top: 200px;
+    right: 250px;
+}
+.bottom-cloud{
+    position: absolute;
+    left: 300px;
+    bottom: 550px;
+}
+.intro{
+    width: 30%;
+    margin: auto;
+}
+.skill-row{
+    margin: 100px auto 100px auto;
+}
+.monitor{
+    position: absolute;
+    left: 300px;
+}
+.py{
+    position: absolute;
+    right: 300px;
+}
+.skill-description{
+    margin: 50px auto 50px auto;
+}
+.phone-pic{
+    position: absolute;
+    left: 350px;
+}
+.pic{
+    text-align: left;
+    margin-left: 550px;
+}
+.pic-des{
+    text-align: left;
+    margin-left: 550px;
+    width: 35%;
+}
+a{
+    color: #11999E;
+    margin: auto 10px;
+    text-decoration: none;
+}
+a:hover{
+    color:aliceblue;
+}
+.copyright{
+    color: #EAF6F6;
+    font-size: 0.75rem;
+    padding: 20px 0;
+}
